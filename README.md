@@ -1,11 +1,7 @@
-# hi.im kai 🗡️
-
-**Mathematics** @ Franklin & Marshall College · Class of 2029
-
+# hi. im kai 🗡️
 ---
 
 ## 🛠️ Tech Stack
-
 ### Tech Stuff I have learned:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
