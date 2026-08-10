@@ -71,5 +71,5 @@ Hanoi, Zelda, and a good cup of coffee.
 
 ## 📬 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/) <!-- UPDATE LINK -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com) <!-- UPDATE LINK -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kh%C3%A1nh-l%C3%A3/) <!-- UPDATE LINK -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khanh.ltn7@gmail.com) <!-- UPDATE LINK -->
