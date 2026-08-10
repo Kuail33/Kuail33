@@ -1,8 +1,7 @@
-# hi. im kai 🗡️
+# hi. im kai 
 ---
 
-## 🛠️ Tech Stack
-### Tech Stuff I have learned:
+## 🗡️ Tech Stuff I have learned
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
