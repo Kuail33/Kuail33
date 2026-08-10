@@ -1,4 +1,4 @@
-# Hi there, I'm Kai 🗡️
+# hi.im kai 🗡️
 
 **Mathematics** @ Franklin & Marshall College · Class of 2029
 
@@ -39,7 +39,7 @@
 | [**Monet**](https://github.com/Kuail33/monet) | AI forensic tool that embeds tamper-evident signatures into digital media and generates human-readable forensic reports | SHA-256 · React · FastAPI · Gemini |
 | [**Cookie Eater**](https://github.com/Kuail33/Cookie-Eater) | Chrome extension that audits privacy policies with AI, producing safety scores and red-flag detection in multiple languages | React · FastAPI · Gemini 2.5 Flash |
 | **Power Packs** *(coming soon)* | Applied math research: Bayesian shrinkage estimator + constrained linear programming for nutritional cost optimization on 6 years of food nonprofit data | Python · NumPy · pandas · Matplotlib |
-| [**Art Portfolio**](https://github.com/Kuail33/personal-website) | A collection of my visual and creative work | |
+| [**Art Portfolio**](https://github.com/Kuail33/personal-website) | A collection of my artworks and commisions | |
 | [**Underclassmen Opportunities**](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities) | Active contributor to a community-driven list of internships, fellowships, and programs for first- and second-year students | TypeScript |
 
 ---
@@ -56,7 +56,7 @@
 
 ## 🌿 Outside of Code
 
-Hanoi, Zelda, and a good cup of coffee.
+Art, Zelda, and a good cup of coffee.
 
 ---
 
