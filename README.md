@@ -54,15 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuail33&show_icons=true&theme=transparent&hide_border=true&title_color=1a8a1a&icon_color=c8a200&text_color=9f9f9f" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuail33&layout=compact&theme=transparent&hide_border=true&title_color=1a8a1a&text_color=9f9f9f" height="165" />
-</p>
-
----
-
 ## 🌿 Outside of Code
 
 Hanoi, Zelda, and a good cup of coffee.
